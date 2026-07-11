@@ -13,3 +13,7 @@ Open your terminal and run the following command to download the project:
 ```bash
 git clone [https://github.com/Afeka-DevTools/26b-10142-unittesting-itay-and-yuval](https://github.com/Afeka-DevTools/26b-10142-unittesting-itay-and-yuval)
 cd 26b-10142-unittesting-itay-and-yuval
+
+Run the tests: .\gradlew.bat test
+
+Generate coverage report: .\gradlew.bat test jacocoTestReport
